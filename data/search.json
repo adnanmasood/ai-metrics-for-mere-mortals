@@ -1,0 +1,131 @@
+{
+  "documents": [
+    {
+      "id": "D01",
+      "relevant": true
+    },
+    {
+      "id": "D02",
+      "relevant": true
+    },
+    {
+      "id": "D03",
+      "relevant": true
+    },
+    {
+      "id": "D04",
+      "relevant": true
+    },
+    {
+      "id": "D05",
+      "relevant": true
+    },
+    {
+      "id": "D06",
+      "relevant": true
+    },
+    {
+      "id": "D07",
+      "relevant": true
+    },
+    {
+      "id": "D08",
+      "relevant": true
+    },
+    {
+      "id": "D09",
+      "relevant": true
+    },
+    {
+      "id": "D10",
+      "relevant": true
+    },
+    {
+      "id": "D11",
+      "relevant": false
+    },
+    {
+      "id": "D12",
+      "relevant": false
+    },
+    {
+      "id": "D13",
+      "relevant": false
+    },
+    {
+      "id": "D14",
+      "relevant": false
+    },
+    {
+      "id": "D15",
+      "relevant": false
+    },
+    {
+      "id": "D16",
+      "relevant": false
+    },
+    {
+      "id": "D17",
+      "relevant": false
+    },
+    {
+      "id": "D18",
+      "relevant": false
+    },
+    {
+      "id": "D19",
+      "relevant": false
+    },
+    {
+      "id": "D20",
+      "relevant": false
+    },
+    {
+      "id": "D21",
+      "relevant": false
+    },
+    {
+      "id": "D22",
+      "relevant": false
+    },
+    {
+      "id": "D23",
+      "relevant": false
+    },
+    {
+      "id": "D24",
+      "relevant": false
+    },
+    {
+      "id": "D25",
+      "relevant": false
+    }
+  ],
+  "ranking": [
+    "D11",
+    "D01",
+    "D02",
+    "D12",
+    "D03",
+    "D13",
+    "D04",
+    "D14",
+    "D05",
+    "D15",
+    "D06",
+    "D16",
+    "D07",
+    "D17",
+    "D08",
+    "D18",
+    "D09",
+    "D19",
+    "D10",
+    "D20",
+    "D21",
+    "D22",
+    "D23",
+    "D24",
+    "D25"
+  ]
+}
