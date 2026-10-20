@@ -1,0 +1,5 @@
+# Generated local verification output and Python caches.
+/verification/
+__pycache__/
+*.py[cod]
+.DS_Store
